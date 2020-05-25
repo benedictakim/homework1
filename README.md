@@ -6,6 +6,7 @@ GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements 
 ---->Was not sure about changing the "header" to "nav" and kept "content"; replaced with "articles" and "aside"
+---->replaced "content" with "section" and "header" with "nav"
 
 
 WHEN I view the structure of the HTML elements
